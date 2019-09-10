@@ -2,6 +2,8 @@
 
 Bokeh is an interactive visualization library that targets modern web browsers for presentation.
 
+To run in Anaconda, download the airlines data file and python script. Run Bokeh server command found at top of python script in Anaconda Command prompt.
+
 ## Plots
 
 3 plots were created on Air Flight Delay Data
